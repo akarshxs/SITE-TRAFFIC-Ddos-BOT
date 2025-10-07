@@ -5,7 +5,9 @@
 UltimateManu - Extreme Power Attack Tool
 CloudFlare Bypass & WAF Penetration Capabilities
 DANGER LEVEL: MAXIMUM
-
+--------------------
+MADE BY- SHAHxKNIGHT
+--------------------
 DISCLAIMER: 
 This tool is for educational purposes only.
 ONLY use this on systems you own or have EXPLICIT permission to test.
@@ -1913,3 +1915,4 @@ if __name__ == "__main__":
         
     # Start the attack
     attacker.run()
+
